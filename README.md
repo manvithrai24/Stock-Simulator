@@ -1,3 +1,5 @@
+#Stock-Simulator
+
 **HI GUYS,
 This is a java based project on stock / inventary management system
 
