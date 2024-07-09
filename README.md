@@ -15,3 +15,4 @@ Step 3:Running the Project
 Compile the Java files using your IDE or command line.
 Run the InventoryGUI class to start the application.
 This will open a window where you can manage the inventory of products like eggs and meat. You can sell and restock products, and the GUI will update to show the current stock, sold quantity, and remaining quantity.
+![Java Stock](https://github.com/manvithrai24/Stock-Simulator/assets/174253712/5bba8d21-c278-469a-b041-37c748cc1275)
